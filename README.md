@@ -8,7 +8,3 @@ This project is an IoT-based health monitoring system using an Arduino. It simul
   - Monitors temperature, heart rate, and blood pressure.
   - Displays current readings and status (normal, high, or low) on the LCD screen.
   - Visual alerts via LEDs for abnormal readings.
-
-### Link to Tinkercad Project
-The Tinkercad project can be accessed from here: 
-https://www.tinkercad.com/things/3BW6Dvp9a7X-groupghealthmonitoringsystem/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=fKUs4CduXr3dczhwpsdklZNWcmvXvjog72GvCZ5j9mg
